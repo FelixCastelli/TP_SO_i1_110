@@ -7,3 +7,7 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 Si, si agrego un archivo y realizo el push los integrantes van a poder ver los cambios.
 d-¿De qué forma se comunicaron ustedes?
 Para comunicarnos utilizamos whatsapp, Discord y Projects.
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+dentro de github la mejor forma seria atravez del project, ya que ahi se pueden ir poniendo las tareas que hay que hacer,
+quienes las tienen que hacer y en que estado estan.
